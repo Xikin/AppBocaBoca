@@ -26,7 +26,7 @@ public class DashboardActivity<selectedListener> extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
 
-         actionBar = getSupportActionBar();
+        actionBar = getSupportActionBar();
         actionBar.setTitle("Perfil");
 
 
