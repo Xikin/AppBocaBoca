@@ -152,7 +152,7 @@ public class Cadastro extends AppCompatActivity {
                             hashMap.put("nome","" );   //vai adicionar depois (e.g edit profile)
                             hashMap.put("telefone", "");//vai adicionar depois (e.g edit profile)
                             hashMap.put("imagem", "");//vai adicionar depois (e.g edit profile)
-
+                            hashMap.put("cover", "");//vai adicionar depois (e.g edit profile)
                             //Intancia do Firebase database
 
                             FirebaseDatabase database = FirebaseDatabase.getInstance();
